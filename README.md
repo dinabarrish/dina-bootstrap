@@ -1,3 +1,9 @@
+# Dina Barrish
+
+Bootstrap 5 class project
+
+Started Monday, Oct. 9
+
 # ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
